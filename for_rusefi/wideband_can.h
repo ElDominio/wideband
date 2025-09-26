@@ -36,7 +36,7 @@
 // 0xEF5'0000
 #define WB_MGS_ECU_STATUS WB_BL_CMD(WB_OPCODE_ECU_STATUS, 0)
 
-#define WB_DATA_BASE_ADDR 0x190
+#define WB_DATA_BASE_ADDR 0x194
 
 // we transmit every 10ms
 #define WBO_TX_PERIOD_MS 10
